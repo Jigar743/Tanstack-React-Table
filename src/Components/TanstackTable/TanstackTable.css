@@ -1,0 +1,28 @@
+.main_div {
+    justify-content: space-between;
+    align-items: start;
+}
+
+.column_display_div{
+    display: flex;
+    align-items: center;
+    height: 200px;
+    justify-content: space-evenly;
+}
+
+.pagination_div{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100px;
+    align-items: center;
+}
+
+.table_div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.loading_div{
+    text-align: center;
+    align-items: center;
+}
